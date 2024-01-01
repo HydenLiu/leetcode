@@ -1,0 +1,8 @@
+[package]
+name = "leetcode"
+version = "0.1.0"
+authors = ["Hyden Liu"]
+edition = "2018"
+
+[dependencies]
+proptest = "1.0.0"
